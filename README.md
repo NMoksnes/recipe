@@ -1,1 +1,3 @@
-This is a recipe for guacamole
+# Guacamole recipe
+
+Used in teaching Git.
